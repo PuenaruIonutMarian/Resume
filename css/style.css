@@ -1,0 +1,23 @@
+    .background-color {
+        background-color: #D2F0EA;
+        color: #133837;
+    }
+
+    .prima-imagine {
+        width: "200";
+        height: "200";
+        border-radius: 50%;
+        /* mix-blend-mode: color-burn; */
+    }
+    .icon-square {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.75rem;
+}
+.awards{
+    background-color:#D2F0EA ;
+}
+.picurele{
+    height:400px;
+    width: 420px;
+}
